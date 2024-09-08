@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-echo "SANJAY M"
+echo "SANJAY"
